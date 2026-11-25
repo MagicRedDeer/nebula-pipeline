@@ -60,3 +60,7 @@ of it are different claims, and this repository makes the first one.
 
 See each repository for its licence. Nothing in this index repository is a copy of the code; the links
 point at the originals.
+
+One module, [`nebula-ideadline`](https://github.com/MagicRedDeer/nebula-ideadline), is also mirrored to
+GitHub. It is the one where the entire history is mine, and a render-farm integration reads better with
+the file open than behind a link.
