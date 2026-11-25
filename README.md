@@ -61,6 +61,10 @@ of it are different claims, and this repository makes the first one.
 See each repository for its licence. Nothing in this index repository is a copy of the code; the links
 point at the originals.
 
-One module, [`nebula-ideadline`](https://github.com/MagicRedDeer/nebula-ideadline), is also mirrored to
-GitHub. It is the one where the entire history is mine, and a render-farm integration reads better with
-the file open than behind a link.
+Two modules are also mirrored to GitHub, because a render-farm integration and a Maya utility library read
+better with the file open than behind a link:
+
+- [`nebula-ideadline`](https://github.com/MagicRedDeer/nebula-ideadline) — the entire history is mine.
+- [`nebula-imaya`](https://github.com/MagicRedDeer/nebula-imaya) — 106 of 184 commits are mine, 42 are
+  Qurban Ali's and 36 are Hussain Parsaiyan's, both working on the module under my direction. The README
+  there states the split, and that it carries no licence file, same as the original.
